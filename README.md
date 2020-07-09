@@ -4,6 +4,10 @@ Konnichiwa! I'm takara2314—a student at a college of technology in Japan. I ca
 ## Works
 Null
 
+## Doing
+- Develop a system to add schedule about homeworks to my class TimeTree
+- Develop a service
+
 ## Links
 - Twitter: https://twitter.com/takara2314
 - Personal site: https://2314.tk/
