@@ -5,8 +5,8 @@ Konnichiwa! I'm takara2314—a student at a college of technology in Japan. I ca
 Null
 
 ## Doing
-- Develop a system to add schedule about homeworks to my class TimeTree
-- Develop a service
+- (10/100) Develop a system to add schedule about homeworks to my class TimeTree
+- (1/100) Develop a service
 
 ## Links
 - Twitter: https://twitter.com/takara2314
