@@ -1,5 +1,6 @@
 # takara2314
-![Age: 16](https://img.shields.io/badge/age-16-yellow?style=for-the-badge)
+![Age: 16](https://img.shields.io/badge/Age-16-yellow?style=for-the-badge)
+![KOSEN: 19s](https://img.shields.io/badge/KOSEN-19s-green?style=for-the-badge)
 ![Go: Passing](https://img.shields.io/badge/Go-passing-blue?style=for-the-badge)
 ![Life: Failing](https://img.shields.io/badge/life-failing-red?style=for-the-badge)
 
