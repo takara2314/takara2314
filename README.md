@@ -10,7 +10,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm busy
 Null
 
 ## Doing
-- (45/100) Develop a system to add schedule about homeworks to my class TimeTree
+- (75/100) Develop a system to add schedule about homeworks to my class TimeTree
 - (1/100) Develop a service
 
 ## Links
