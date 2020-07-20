@@ -10,8 +10,8 @@ Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm busy
 Null
 
 ## Doing
+- (100%) Develop a API using [Devoirs](https://github.com/approvers/devoirs)
 - (100%) Develop a system to add schedule about homeworks to my class TimeTree
-- (1%) Develop a class LINE bot
 - (1%) Develop something service
 
 ## Links
