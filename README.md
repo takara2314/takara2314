@@ -12,7 +12,7 @@ Null
 ## 👨🏽‍🔬 Doing
 - (100%) Develop a API using [Devoirs](https://github.com/approvers/devoirs) → [TCJ2 Kadai Store API](https://github.com/takara2314/tcj2-kadai-store-api)
 - (100%) Develop a system to add schedule about homeworks to my class TimeTree → [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store)
-- (10%) Make a thing for The programming contest
+- (15%) Make a thing for The programming contest
 - (8%) Make a thing for The robot contest
 - (1%) Develop something service
 
