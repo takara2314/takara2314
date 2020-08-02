@@ -21,3 +21,6 @@ Null
 - AtCoder: https://atcoder.jp/users/takara2314
 - Personal site: https://2314.tk/
 - Discord: 拡張的な宝箱#9220
+
+![takara2314's GitHub Stats](https://github-readme-stats.vercel.app/api?username=takara2314&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takara2314&count-private=true)
