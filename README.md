@@ -1,8 +1,9 @@
 # 🦊 takara2314
 ![Age: 16](https://img.shields.io/badge/Age-16-yellow?style=for-the-badge)
 ![KOSEN: 19s](https://img.shields.io/badge/KOSEN-19s-green?style=for-the-badge)
-![Go: Passing](https://img.shields.io/badge/Go-passing-deepskyblue?style=for-the-badge)
-![Editor: VScode](https://img.shields.io/badge/Editor-VScode-blue?style=for-the-badge)
+![Go: Passing](https://img.shields.io/badge/Go-passing-00ADD8?style=for-the-badge)
+![Python: Passing](https://img.shields.io/badge/Python-passing-3572A5?style=for-the-badge)
+![Editor: VScode](https://img.shields.io/badge/Editor-VScode-0078D4?style=for-the-badge)
 
 Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm interested in all of IT. I'll do my best to expose a lot of my kuso code.
 
@@ -10,10 +11,10 @@ Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm inte
 Null
 
 ## 👨🏽‍🔬 Doing
-- (8/24 - 28) 高専サマースクール2020
 - (17%) Make a thing for the programming contest
 - (10%) Make a thing for the robot contest
 - (1%) Develop something service
+- (8/24 - 28) [AIサマースクール2020](https://twitter.com/learn_learning3/status/1299320316678660096)
 - (100%) Develop a API using [Devoirs](https://github.com/approvers/devoirs) → [TCJ2 Kadai Store API](https://github.com/takara2314/tcj2-kadai-store-api)
 - (100%) Develop a system to add schedule about homeworks to my class TimeTree → [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store)
 
