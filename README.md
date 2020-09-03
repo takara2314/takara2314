@@ -11,10 +11,11 @@ Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm inte
 Null
 
 ## 👨🏽‍🔬 Doing
-- (17%) Make a thing for the programming contest
-- (10%) Make a thing for the robot contest
+- (~ 9/18) The middle of exams (school)
+- (~ November) Make a thing for the programming contest
+- (~ October) Make a thing for the robot contest
 - (1%) Develop something service
-- (8/24 - 28) [AIサマースクール2020](https://twitter.com/ImAI_Eruel/status/1299320316678660096)
+- (8/24 ~ 28) [AIサマースクール2020](https://twitter.com/ImAI_Eruel/status/1299320316678660096)
 - (100%) Develop a API using [Devoirs](https://github.com/approvers/devoirs) → [TCJ2 Kadai Store API](https://github.com/takara2314/tcj2-kadai-store-api)
 - (100%) Develop a system to add schedule about homeworks to my class TimeTree → [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store)
 
