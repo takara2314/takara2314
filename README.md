@@ -17,7 +17,7 @@ Null
 - (1%) Develop something service
 - (8/24 ~ 28) [AIサマースクール2020](https://twitter.com/ImAI_Eruel/status/1299320316678660096)
 - (100%) Develop a API using [Devoirs](https://github.com/approvers/devoirs) → [TCJ2 Kadai Store API](https://github.com/takara2314/tcj2-kadai-store-api)
-- (100%) Develop a system to add schedule about homeworks to my class TimeTree → [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store)
+- (100%) Develop a system to add schedule about homework to my class TimeTree → [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store)
 
 ## ➡️ Links
 - Twitter: [ふぉくしーど](https://twitter.com/takara2314)
