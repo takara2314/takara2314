@@ -8,16 +8,15 @@
 Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm interested in all of IT. I'll do my best to expose a lot of my kuso code.
 
 ## 👨🏽‍💻 Works
-Null
+- [TCJ2 Kadai Store API](https://github.com/takara2314/tcj2-kadai-store-api): Develop a API using [Devoirs](https://github.com/approvers/devoirs)
+- [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store): Develop a system to add schedule about homework to my class TimeTree
 
 ## 👨🏽‍🔬 Doing
 - (~ 9/18) The middle of exams (school)
 - (~ November) Make a thing for the programming contest
 - (~ October) Make a thing for the robot contest
-- (1%) Develop something service
-- (8/24 ~ 28) [AIサマースクール2020](https://twitter.com/ImAI_Eruel/status/1299320316678660096)
-- (100%) Develop a API using [Devoirs](https://github.com/approvers/devoirs) → [TCJ2 Kadai Store API](https://github.com/takara2314/tcj2-kadai-store-api)
-- (100%) Develop a system to add schedule about homework to my class TimeTree → [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store)
+- (0%) Making my portfolio site
+- (0%) Develop something service
 
 ## ➡️ Links
 - Twitter: [ふぉくしーど](https://twitter.com/takara2314)
