@@ -5,14 +5,14 @@
 ![Python: Passing](https://img.shields.io/badge/Python-passing-3572A5?style=for-the-badge)
 ![Editor: VScode](https://img.shields.io/badge/Editor-VScode-0078D4?style=for-the-badge)
 
-Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm interested in all of IT. I'll do my best to expose a lot of my (kuso) code.
+Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm interested in all of IT. I'll do my best to expose a lot of my code.
 
 ## 👨🏽‍💻 Works
 - [TCJ2 Kadai Store API](https://github.com/takara2314/tcj2-kadai-store-api): Develop a API using [Devoirs](https://github.com/approvers/devoirs)
 - [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store): Develop a system to add schedule about homework to my class TimeTree
 
 ## 👨🏽‍🔬 Doing
-- (2%) Learning WebGL (Three.js / Cannon.js)
+- (3%) Learning WebGL (Three.js / Cannon.js / OrbitControls.js)
 - (0%) Making my portfolio site
 - (~ November) Make a thing for the programming contest
 - (~ October) Make a thing for the robot contest
