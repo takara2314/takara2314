@@ -13,7 +13,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm inte
 
 ## 👨🏽‍🔬 Doing
 - (~ GRADUATE) School
-- (~ ?) Make a thing for the programming contest
+- (~ ?) Making a thing for the programming contest
 - (~ October) Make a thing for the robot contest
 - (3%) Learning WebGL (Three.js / Cannon.js / OrbitControls.js)
 - (0%) Making my portfolio site
