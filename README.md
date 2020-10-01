@@ -12,6 +12,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm inte
 - [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store): Develop a system to add schedule about homework to my class TimeTree
 
 ## 👨🏽‍🔬 Doing
+- (~ GRADUATE) School
 - (~ ?) Make a thing for the programming contest
 - (~ October) Make a thing for the robot contest
 - (3%) Learning WebGL (Three.js / Cannon.js / OrbitControls.js)
