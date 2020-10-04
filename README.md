@@ -14,6 +14,8 @@ Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm inte
 ## 👨🏽‍🔬 Doing
 - (~ ?) Making a thing for the programming contest
 - (~ October) Makeing a thing for the robot contest
+- (1%) Learning DJI Mobile SDK (iOS)
+- (40%) Learning Arduino
 - (3%) Learning WebGL (Three.js / Cannon.js / OrbitControls.js)
 - (0%) Making my portfolio site
 - (0%) Develop something service
