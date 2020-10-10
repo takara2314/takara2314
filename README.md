@@ -26,6 +26,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm inte
 - AtCoder: [takara2314](https://atcoder.jp/users/takara2314)
 - Personal site (Work In Progress): [2314.tk](https://2314.tk/)
 - Discord: 拡張的な宝箱#9220
+- Skype: takara2314
 
 <a><img src="https://github-readme-stats.vercel.app/api?username=takara2314&count_private=true&show_icons=true&line_height=40&title_color=00ADD8&icon_color=00ADD8" /></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takara2314&title_color=00ADD8" /></a>
