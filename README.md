@@ -3,6 +3,7 @@
 ![KOSEN: 19s](https://img.shields.io/badge/KOSEN-19s-green?style=for-the-badge)
 ![Go: Passing](https://img.shields.io/badge/Go-passing-00ADD8?style=for-the-badge)
 ![Python: Passing](https://img.shields.io/badge/Python-passing-3572A5?style=for-the-badge)
+![Swift: Learning](https://img.shields.io/badge/Swift-learning-FFAC45?style=for-the-badge)
 ![Editor: VScode](https://img.shields.io/badge/Editor-VScode-0078D4?style=for-the-badge)
 
 Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm interested in all of IT. I'll do my best to expose a lot of my code.
@@ -14,9 +15,8 @@ Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm inte
 ## 👨🏽‍🔬 Doing
 - (~ ?) Making a thing for the programming contest
 - (~ October) Makeing a thing for the robot contest
+- (1%) Learning Swift Language
 - (1%) Learning DJI Mobile SDK (iOS)
-- (30%) Learning Flutter
-- (40%) Learning Arduino
 - (3%) Learning WebGL (Three.js / Cannon.js / OrbitControls.js)
 - (0%) Making my portfolio site
 - (0%) Develop something service
