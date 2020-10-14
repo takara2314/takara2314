@@ -8,7 +8,7 @@
 Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm interested in all of IT. I'll do my best to expose a lot of my code.
 
 ## 👨🏽‍💻 Works
-- [TCJ2 Kadai Store API](https://github.com/takara2314/tcj2-kadai-store-api): Develop a API using [Devoirs](https://github.com/approvers/devoirs)
+- `Archived` [TCJ2 Kadai Store API](https://github.com/takara2314/tcj2-kadai-store-api): Develop a API using [Devoirs](https://github.com/approvers/devoirs)
 - [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store): Develop a system to add schedule about homework to my class TimeTree
 
 ## 👨🏽‍🔬 Doing
