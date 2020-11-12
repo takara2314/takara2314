@@ -5,19 +5,19 @@
 ![Python: Passing](https://img.shields.io/badge/Python-passing-3572A5?style=for-the-badge)
 ![Editor: VScode](https://img.shields.io/badge/Editor-VScode-0078D4?style=for-the-badge)
 
-Konnichiwa! I'm takara2314—a KOSEN student. I can't flick input well. I'm interested in all of IT. I'll do my best to expose a lot of my code.
+Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, Programming, and so on. I'm interested in all of IT. I'll do my best to expose a lot of my code. By the way, I have been able to flik input!
 
 ## 👨🏽‍💻 Works
 - `Archived` [TCJ2 Kadai Store API](https://github.com/takara2314/tcj2-kadai-store-api): Develop a API using [Devoirs](https://github.com/approvers/devoirs)
 - [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store): Develop a system to add schedule about homework to my class TimeTree
 
 ## 👨🏽‍🔬 Doing
-- (~ ?) Making a thing for the programming contest
-- (~ October) Makeing a thing for the robot contest
-- (1%) Learning Swift Language
+- (~ ?) Making a thing for [cvg キャンパスベンチャーグランプリ](https://cvg.nikkan.co.jp/)
+- (1%) Learning Objective-C Language
 - (1%) Learning DJI Mobile SDK (iOS)
 - (3%) Learning WebGL (Three.js / Cannon.js / OrbitControls.js)
 - (0%) Making my portfolio site
+- (1%) Making the prototype system for something
 - (0%) Develop something service
 
 ## ➡️ Links
