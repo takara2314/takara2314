@@ -1,5 +1,5 @@
 # 🦊 takara2314
-![Age: 16](https://img.shields.io/badge/Age-16-yellow?style=for-the-badge)
+![Age: 17](https://img.shields.io/badge/Age-17-yellow?style=for-the-badge)
 ![KOSEN: 19s](https://img.shields.io/badge/KOSEN-19s-green?style=for-the-badge)
 ![Go: Passing](https://img.shields.io/badge/Go-passing-00ADD8?style=for-the-badge)
 ![Python: Passing](https://img.shields.io/badge/Python-passing-3572A5?style=for-the-badge)
