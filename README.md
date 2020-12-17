@@ -12,7 +12,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, Progra
 - [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store): Develop a system to add schedule about homework to my class TimeTree
 
 ## 👨🏽‍🔬 Doing
-- (~ ?) Making a thing for [cvg キャンパスベンチャーグランプリ](https://cvg.nikkan.co.jp/)
+- (~ January 2021) Making a thing for [cvg キャンパスベンチャーグランプリ](https://cvg.nikkan.co.jp/)
 - (1%) Learning Objective-C Language
 - (1%) Learning DJI Mobile SDK (iOS)
 - (3%) Learning WebGL (Three.js / Cannon.js / OrbitControls.js)
