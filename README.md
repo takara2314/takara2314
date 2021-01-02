@@ -23,6 +23,12 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, Progra
 - (5%) Making my portfolio site
 - (1%) Making the prototype system for something
 
+## 😀 Nicknames
+- タカラーン
+- たからーん
+- たからん
+- ふぉくしーど
+
 ## ➡️ Links
 - Twitter: [ふぉくしーど](https://twitter.com/takara2314)
 - AtCoder: [takara2314](https://atcoder.jp/users/takara2314)
