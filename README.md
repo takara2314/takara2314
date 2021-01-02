@@ -8,17 +8,20 @@
 Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, Programming, and so on. I'm interested in all of IT. I'll do my best to expose a lot of my code. By the way, I have been able to flik input!
 
 ## 👨🏽‍💻 Works
-- `Archived` [TCJ2 Kadai Store API](https://github.com/takara2314/tcj2-kadai-store-api): Develop a API using [Devoirs](https://github.com/approvers/devoirs)
-- [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store): Develop a system to add schedule about homework to my class TimeTree
+- `Archived` [TCJ2 Kadai Store API](https://github.com/takara2314/tcj2-kadai-store-api): A API providing assignments information by using [Devoirs](https://github.com/approvers/devoirs)
+
+## 📃 Projects
+- [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store): A system to add schedule about homework to my class TimeTree
+- [たからーん年賀状AR 2021](https://github.com/takara2314/nenga2021): My New Year's cards 2021 included AR
 
 ## 👨🏽‍🔬 Doing
-- (~ January 2021) Making a thing for [cvg キャンパスベンチャーグランプリ](https://cvg.nikkan.co.jp/)
-- (1%) Learning Objective-C Language
+- (~ January) Making a drone control App (iOS)
+- (1%) Learning Swift Language
 - (1%) Learning DJI Mobile SDK (iOS)
+- (1%) Learning JavaScript / TypeScript Language
 - (3%) Learning WebGL (Three.js / Cannon.js / OrbitControls.js)
-- (0%) Making my portfolio site
+- (5%) Making my portfolio site
 - (1%) Making the prototype system for something
-- (0%) Develop something service
 
 ## ➡️ Links
 - Twitter: [ふぉくしーど](https://twitter.com/takara2314)
