@@ -20,6 +20,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, Progra
 - (1%) Learning DJI Mobile SDK (iOS)
 - (31%) Learning JavaScript / TypeScript Language
 - (3%) Learning WebGL (Three.js / Cannon.js / OrbitControls.js)
+- (2%) Learning Blender
 - (5%) Making my portfolio site
 - (1%) Making the prototype system for something
 
