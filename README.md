@@ -5,7 +5,7 @@
 ![Python: Passing](https://img.shields.io/badge/Python-passing-3572A5?style=for-the-badge)
 ![Editor: VScode](https://img.shields.io/badge/Editor-VScode-0078D4?style=for-the-badge)
 
-Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, Programming, and so on. I'm interested in all of IT. I'll do my best to expose a lot of my code. By the way, I have been able to flik input!
+Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes, programming, and so on. I'm interested in all of IT. I'll do my best to expose a lot of my code. By the way, I have been able to flik input!
 
 ## 👨🏽‍💻 Works
 - `Archived` [TCJ2 Kadai Store API](https://github.com/takara2314/tcj2-kadai-store-api): A API providing assignments information by using [Devoirs](https://github.com/approvers/devoirs)
