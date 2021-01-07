@@ -15,6 +15,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - [たからーん年賀状AR 2021](https://github.com/takara2314/nenga2021): My New Year's cards 2021 included AR
 
 ## 👨🏽‍🔬 Doing
+- (2%) Developing TCJ2 Kadai Store API version 2
 - (~ January) Making a drone control App (iOS)
 - (1%) Learning Swift Language
 - (1%) Learning DJI Mobile SDK (iOS)
