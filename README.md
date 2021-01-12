@@ -9,15 +9,14 @@
 Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes, programming, and so on. I'm interested in all of IT. I'll do my best to expose a lot of my code. By the way, I have been able to flik input!
 
 ## 👨🏽‍💻 Works
-<!-- - [Kadai Store API](https://github.com/takara2314/kadai-store-api): A API providing assignments information by using [devoirs-core](https://github.com/approvers/devoirs-core) -->
-- `Archived` [TCJ2 Kadai Store API](https://github.com/takara2314/tcj2-kadai-store-api): A API providing assignments information by using [Devoirs](https://github.com/approvers/devoirs)
+- [Kadai Store API](https://github.com/takara2314/kadai-store-api): A API providing assignments information by using [devoirs-core](https://github.com/approvers/devoirs-core)
 
 ## 📃 Projects
 - [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store): A system to add schedule about homework to my class TimeTree
 - [たからーん年賀状AR 2021](https://github.com/takara2314/nenga2021): My New Year's cards 2021 included AR
 
 ## 👨🏽‍🔬 Doing
-- (68%) Developing TCJ2 Kadai Store API v1.0.0
+- (20%) Homeworks of the winter vacation
 - (~ January) Making a drone control App (iOS)
 - (1%) Learning Swift Language
 - (1%) Learning DJI Mobile SDK (iOS)
