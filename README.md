@@ -23,16 +23,6 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - (5%) Making my portfolio site
 - (1%) Making the prototype system for something
 
-## 🌏 Languages
-### 👨‍🔬 Advanced
-Japanese
-### 👨‍🏫 Intermediate
-Go, Python, Pug, SCSS(SASS), HTML, CSS
-### 👨‍💻 Elementary
-TypeScript, JavaScript, English
-### 👨‍🎓 Beginner
-C#, C, Arduino, Dart, Swift, SQL
-
 ## 😀 Nicknames
 - タカラーン
 - たからーん
