@@ -15,17 +15,23 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store): A system to add schedule about homework to my class TimeTree
 - [たからーん年賀状AR 2021](https://github.com/takara2314/nenga2021): My New Year's cards 2021 included AR
 
-## 👨🏽‍🔬 Doing
-- (95%) Homeworks of the winter vacation
-- (~ January) Making a drone control App (iOS)
-- (1%) Learning Swift Language
-- (1%) Learning DJI Mobile SDK (iOS)
+## 👨🏽‍🔬 Doings
 - (45%) Learning JavaScript / TypeScript Language
 - (2%) Learning React
 - (3%) Learning WebGL (Three.js / Cannon.js / OrbitControls.js)
 - (2%) Learning Blender
 - (5%) Making my portfolio site
 - (1%) Making the prototype system for something
+
+## 🌏 Languages
+### 👨‍🔬 Advanced
+Japanese
+### 👨‍🏫 Intermediate
+Go, Python, Pug, SCSS(SASS), HTML, CSS
+### 👨‍💻 Elementary
+TypeScript, JavaScript, English
+### 👨‍🎓 Beginner
+C#, C, Arduino, Dart, Swift, SQL
 
 ## 😀 Nicknames
 - タカラーン
