@@ -16,7 +16,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - [たからーん年賀状AR 2021](https://github.com/takara2314/nenga2021): My New Year's cards 2021 included AR
 
 ## 👨🏽‍🔬 Doings
-- (45%) Learning JavaScript / TypeScript Language
+- (47%) Learning JavaScript / TypeScript Language
 - (2%) Learning React
 - (3%) Learning WebGL (Three.js / Cannon.js / OrbitControls.js)
 - (2%) Learning Blender
@@ -35,6 +35,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - Personal site (Work In Progress): [2314.tk](https://2314.tk/)
 - Discord: 拡張的な宝箱#9220
 - Skype: takara2314
+- Minecraft: takara2314
 
 <a><img src="https://github-readme-stats.vercel.app/api?username=takara2314&count_private=true&show_icons=true&line_height=40&title_color=00ADD8&icon_color=00ADD8" /></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takara2314&title_color=00ADD8" /></a>
