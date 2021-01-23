@@ -17,10 +17,11 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 
 ## 👨🏽‍🔬 Doings
 - (47%) Learning JavaScript / TypeScript Language
-- (6%) Learning React
+- (23%) Learning React
+- (1%) Learning Tailwind CSS
 - (3%) Learning WebGL (Three.js / Cannon.js / OrbitControls.js)
 - (2%) Learning Blender
-- (5%) Making my portfolio site
+- (12%) Making my portfolio site
 - (1%) Making the prototype system for something
 
 ## 😀 Nicknames
