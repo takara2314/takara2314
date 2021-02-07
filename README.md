@@ -3,7 +3,7 @@
 ![KOSEN: 19s](https://img.shields.io/badge/KOSEN-19s-green?style=for-the-badge)
 ![Go: Passing](https://img.shields.io/badge/Go-passing-00ADD8?style=for-the-badge)
 ![Python: Passing](https://img.shields.io/badge/Python-passing-3572A5?style=for-the-badge)
-![TypeScript: Learning](https://img.shields.io/badge/TypeScript-learning-2B7489?style=for-the-badge)
+![TypeScript: Passing](https://img.shields.io/badge/TypeScript-learning-2B7489?style=for-the-badge)
 ![Editor: VScode](https://img.shields.io/badge/Editor-VScode-0078D4?style=for-the-badge)
 
 Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes, programming, and so on. I'm interested in all of IT. I'll do my best to expose a lot of my code. By the way, I have been able to flik input!
@@ -17,10 +17,10 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 
 ## 👨🏽‍🔬 Doings
 - (47%) Learning JavaScript / TypeScript Language
-- (42%) Learning React
+- (45%) Learning React
 - (1%) Learning Tailwind CSS
 - (10%) Learning CSS Animation
-- (3%) Learning WebGL (Three.js / Cannon.js / OrbitControls.js)
+- (14%) Learning WebGL (Three.js / Cannon.js)
 - (2%) Learning Blender
 - (12%) Making my portfolio site
 - (1%) Making the prototype system for something
