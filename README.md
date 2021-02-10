@@ -16,6 +16,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - [たからーん年賀状AR 2021](https://github.com/takara2314/nenga2021): My New Year's cards 2021 included AR
 
 ## 👨🏽‍🔬 Doings
+- (2times/w) Working the part time which I teach JavaScript for children
 - (47%) Learning JavaScript / TypeScript Language
 - (45%) Learning React
 - (1%) Learning Tailwind CSS
