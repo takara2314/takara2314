@@ -1,4 +1,4 @@
-# 🦊 takara2314
+# 🦊 Takara Hamaguchi (takara2314)
 ![Age: 17](https://img.shields.io/badge/Age-17-yellow?style=for-the-badge)
 ![KOSEN: 19s](https://img.shields.io/badge/KOSEN-19s-green?style=for-the-badge)
 ![Go: Passing](https://img.shields.io/badge/Go-passing-00ADD8?style=for-the-badge)
