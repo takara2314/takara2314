@@ -6,7 +6,7 @@
 ![TypeScript: Passing](https://img.shields.io/badge/TypeScript-passing-2B7489?style=for-the-badge)
 ![Editor: VScode](https://img.shields.io/badge/Editor-VScode-0078D4?style=for-the-badge)
 
-Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes, programming, cute things and so on. I'm interested in all of IT. I'll do my best to code a lot. (By the way, I have been able to flik input!)
+Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes, programming, cute things and so on. I'm interested in all of IT. I do my best to code a lot. (By the way, I have been able to flik input!)
 
 ## 👨🏽‍💻 Works
 - [Kadai Store API](https://github.com/takara2314/kadai-store-api): A API providing assignments information by using [devoirs-core](https://github.com/approvers/devoirs-core)
