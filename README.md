@@ -16,6 +16,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store): A system to add schedule about homework to my class TimeTree
 - [たからーん年賀状AR 2021](https://github.com/takara2314/nenga2021): My New Year's cards 2021 included AR
 - [AwareShe](https://github.com/takara2314/awareshe): 2D girl icon generator by PGGAN _(Jointly developed with [kosakae256](https://github.com/kosakae256))_ **(He installs the functions about AI, not me.)**
+- [EmoFace](https://github.com/kosakae256/EmoFace): A face to kaomoji generator by [JCV 属性分析SDK](https://www.japancv.co.jp/solutions/insight_sdk/) _(Jointly developed with [kosakae256](https://github.com/kosakae256))_
 
 ## 👨🏽‍🔬 Doings
 - (3times/w) Working the part time which I teach programming for children
@@ -36,9 +37,8 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 
 ## ➡️ Links
 - Twitter: [ふぉくしーど](https://twitter.com/takara2314)
-- Personal site (Work In Progress): [2314.tk](https://2314.tk/)
+- Personal site: [2314.tk](https://2314.tk/)
 - Discord: 拡張的な宝箱#9220
-- Skype: takara2314
 - Minecraft: takara2314
 
 <a><img src="https://github-readme-stats.vercel.app/api?username=takara2314&count_private=true&show_icons=true&line_height=40&title_color=00ADD8&icon_color=00ADD8" /></a>
