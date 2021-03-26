@@ -27,6 +27,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - (82%) Making my portfolio site
 - (1%) Making the prototype system for something
 - (~ March) School spring vacation
+- (4/3) GAME VACATION
 
 ## 😀 Nicknames
 - タカラーン
