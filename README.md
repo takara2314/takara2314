@@ -17,16 +17,16 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - [たからーん年賀状AR 2021](https://github.com/takara2314/nenga2021): My New Year's cards 2021 included AR
 - [AwareShe](https://github.com/takara2314/awareshe): 2D girl icon generator by PGGAN _(Jointly developed with [kosakae256](https://github.com/kosakae256))_ **(He installs the functions about AI, not me.)**
 - [EmoFace](https://github.com/kosakae256/EmoFace): A face to kaomoji generator by [JCV 属性分析SDK](https://www.japancv.co.jp/solutions/insight_sdk/) _(Jointly developed with [kosakae256](https://github.com/kosakae256))_
+- [2314.tk](https://github.com/takara2314/2314.tk): My portfolio
 
 ## 👨🏽‍🔬 Doings
 - (3times/w) Working the part time which I teach programming for children
-- (20%) Learning WebGL (Three.js / Cannon.js / three-react-fiber)
+- (30%) Learning WebGL (Three.js / Cannon.js / three-react-fiber)
 - (20%) Learning Blender
 - (5%) Learning C++ / OpenSiv3D
 - (20%) Learning CNN (Deep Learning)
-- (92%) Making my portfolio site
 - (1%) Making the prototype system for something
-- (~ March) School spring vacation
+- (~ 4/4) School spring vacation
 - (4/3) GAME VACATION
 
 ## 😀 Nicknames
