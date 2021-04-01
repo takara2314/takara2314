@@ -25,7 +25,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - (20%) Learning Blender
 - (5%) Learning C++ / OpenSiv3D
 - (20%) Learning CNN (Deep Learning)
-- (1%) Making the prototype system for something
+- (3%) Making the prototype system for something
 - (~ 4/4) School spring vacation
 - (4/3) GAME VACATION
 
