@@ -29,7 +29,6 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - (20%) Learning CNN (Deep Learning)
 - (4%) Making the prototype system for something
 - (- Oct 2021) Making something for 高専プロコン2021
-- (70%) Making video for public to YouTube
 
 ## 😀 Nicknames
 - タカラーン
