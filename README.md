@@ -19,7 +19,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - [EmoFace](https://github.com/kosakae256/EmoFace): A face to kaomoji generator by [JCV 属性分析SDK](https://www.japancv.co.jp/solutions/insight_sdk/) _(Jointly developed with [kosakae256](https://github.com/kosakae256))_
 - [2314.tk](https://github.com/takara2314/2314.tk): My portfolio
 
-... [others](https://2314.tk/skills)
+... [others](https://2314.tk/works)
 
 ## 👨🏽‍🔬 Doings
 - (3times/w) Working the part time which I teach programming for children
