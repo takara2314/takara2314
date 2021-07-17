@@ -1,10 +1,11 @@
 # 🦊 takara2314 (Takara Hamaguchi)
 ![Age: 17](https://img.shields.io/badge/Age-17-yellow?style=for-the-badge)
 ![KOSEN: 19s](https://img.shields.io/badge/KOSEN-19s-green?style=for-the-badge)
-![Go: Passing](https://img.shields.io/badge/Go-passing-00ADD8?style=for-the-badge)
-![Python: Passing](https://img.shields.io/badge/Python-passing-3572A5?style=for-the-badge)
-![TypeScript: Passing](https://img.shields.io/badge/TypeScript-passing-2B7489?style=for-the-badge)
-![Editor: VScode](https://img.shields.io/badge/Editor-VScode-0078D4?style=for-the-badge)
+![Go: Passing](https://img.shields.io/badge/Go-passing-00ADD8?style=for-the-badge&logo=go)
+![Python: Passing](https://img.shields.io/badge/Python-passing-3572A5?style=for-the-badge&logo=python)
+![TypeScript: Passing](https://img.shields.io/badge/TypeScript-passing-2B7489?style=for-the-badge&logo=typescript)
+![C++: Learning](https://img.shields.io/badge/C++-learning-f34b7d?style=for-the-badge&logo=cplusplus)
+![Editor: VScode](https://img.shields.io/badge/Editor-VScode-0078D4?style=for-the-badge&logo=visualstudiocode)
 
 Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes, programming, cute things and so on. I'm interested in all of IT. I do my best to code a lot. (By the way, I have been able to flik input!)
 
@@ -25,10 +26,10 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - (3times/w) Working the part time which I teach programming for children
 - (30%) Learning WebGL (Three.js / Cannon.js / three-react-fiber)
 - (20%) Learning Blender
-- (5%) Learning C++ / OpenSiv3D
-- (20%) Learning CNN (Deep Learning)
-- (20%) Develop the LINE Bot for classmates
-- (- Oct 2021) Making something for 高専プロコン2021
+- (25%) Learning C++ / OpenSiv3D
+- (5%) Learning Natural Language Processing
+- (- Oct. 2021) Making something for 高専プロコン2021
+- (- Jul. 30th, 2021) Examination period in my school
 
 ## 😀 Nicknames
 - タカラーン
