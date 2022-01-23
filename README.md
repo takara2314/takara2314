@@ -12,7 +12,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 ## 👨🏽‍💻 Works
 - [Kadai Store API](https://github.com/takara2314/kadai-store-api): A API providing assignments information by using [devoirs-core](https://github.com/approvers/devoirs-core)
 - 学魚養食 _(NOT OPEN-SOURCED)_ : Students can help fish farmers with using what them learned in the school _(Introduced in [第32回高専プロコン](https://youtu.be/GpcsrOywmHA?t=21897))_
-- Project on my lab: *I am asked to develop certain Android App.*
+- Project on the part time: *I am asked to develop certain Android App.*
 - [Codemple](https://github.com/codemple): Comming soon...
 
 ## 📃 Projects
@@ -20,6 +20,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - [たからーん年賀状AR 2021](https://github.com/takara2314/nenga2021): My New Year's cards 2021 included AR
 - [AwareShe](https://github.com/takara2314/awareshe): 2D girl icon generator by PGGAN _(Jointly developed with [kosakae256](https://github.com/kosakae256))_ **(He installs the functions about AI, not me.)**
 - [EmoFace](https://github.com/kosakae256/EmoFace): A face to kaomoji generator by [JCV 属性分析SDK](https://www.japancv.co.jp/solutions/insight_sdk/) _(Jointly developed with [kosakae256](https://github.com/kosakae256))_
+- [kadai-alarm](https://github.com/takara2314/kadai-alarm): Notice forgetting to submit assignments system
 - [2314.tk](https://github.com/takara2314/2314.tk): My portfolio
 
 ... [others](https://2314.tk/works)
@@ -32,7 +33,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - (1%) Commercialization of a product introduced in 第32回高専プロコン
 - (2%) Learning CNN with PyTorch
 - (10%) Learning Natural Language Processing with TensorFlow (Keras)
-- (- Nov. 19th, 2021) Examination period in my school
+- (- Feb. 2nd, 2022) 4thQ examination period in my school
 
 ## 😀 Nicknames
 - タカラーン
