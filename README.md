@@ -30,10 +30,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 
 ## 👨🏽‍🔬 Doings
 - (3times/w) Working the part time which I teach programming for children
-- (1%) Commercialization of a product introduced in 第32回高専プロコン
-- (2%) Learning CNN with PyTorch
-- (10%) Learning Natural Language Processing with TensorFlow (Keras)
-- (- Feb. 2nd, 2022) 4thQ examination period in my school
+- (Feb. 12th, 2022 -) Going to driving school
 
 ## 😀 Nicknames
 - タカラーン
