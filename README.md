@@ -12,8 +12,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 ## 👨🏽‍💻 Works
 - [Kadai Store API](https://github.com/takara2314/kadai-store-api): A API providing assignments information by using [devoirs-core](https://github.com/approvers/devoirs-core)
 - 学魚養食 _(NOT OPEN-SOURCED)_ : Students can help fish farmers with using what them learned in the school _(Introduced in [第32回高専プロコン](https://youtu.be/GpcsrOywmHA?t=21897))_
-- Project on the part time: *I am asked to develop certain Android App.*
-- [Codemple](https://github.com/codemple): Comming soon...
+- B-SAM: Sailing Assist App for visually impaired athletes
 
 ## 📃 Projects
 - [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store): A system to add schedule about homework to my class TimeTree
@@ -30,7 +29,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 
 ## 👨🏽‍🔬 Doings
 - (3times/w) Working the part time which I teach programming for children
-- (Feb. 12th, 2022 -) Going to driving school
+- (60%) Developing sailing assist app for visually impaired athletes
 
 ## 😀 Nicknames
 - タカラーン
