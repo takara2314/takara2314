@@ -40,6 +40,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 ## ➡️ Links
 - Twitter: [ふぉくしーど](https://twitter.com/takara2314)
 - Portfolio: [2314.tk](https://2314.tk/)
+- Portfolio (Light): [takara.2314.tk](https://takara.2314.tk/)
 - Discord: 拡張的な宝箱#9220
 - Minecraft: takara2314
 
