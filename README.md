@@ -19,6 +19,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - [たからーん年賀状AR 2021](https://github.com/takara2314/nenga2021): My New Year's cards 2021 included AR
 - [AwareShe](https://github.com/takara2314/awareshe): 2D girl icon generator by PGGAN _(Jointly developed with [kosakae256](https://github.com/kosakae256))_ **(He installs the functions about AI, not me.)**
 - [EmoFace](https://github.com/kosakae256/EmoFace): A face to kaomoji generator by [JCV 属性分析SDK](https://www.japancv.co.jp/solutions/insight_sdk/) _(Jointly developed with [kosakae256](https://github.com/kosakae256))_
+- [劣化版カンジー博士](https://github.com/takara2314/downgraded-dr.kanji): Quizzing kanji in exam bot
 - [kadai-alarm](https://github.com/takara2314/kadai-alarm): Notice forgetting to submit assignments system
 - [2314.tk](https://github.com/takara2314/2314.tk): My portfolio
 
