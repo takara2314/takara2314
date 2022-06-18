@@ -5,6 +5,7 @@
 ![Python: Passing](https://img.shields.io/badge/Python-passing-3572A5?style=for-the-badge&logo=python)
 ![TypeScript: Passing](https://img.shields.io/badge/TypeScript-passing-3178c6?style=for-the-badge&logo=typescript)
 ![C++: Learning](https://img.shields.io/badge/C++-learning-f34b7d?style=for-the-badge&logo=cplusplus)
+![Dart: Learning](https://img.shields.io/badge/Dart-learning-00b4ab?style=for-the-badge&logo=dart)
 ![Editor: VScode](https://img.shields.io/badge/Editor-VScode-0078D4?style=for-the-badge&logo=visualstudiocode)
 
 Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes, programming, cute things and so on. I'm interested in all of IT. I do my best to code a lot. (By the way, I have been able to flik input!)
