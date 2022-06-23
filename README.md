@@ -31,7 +31,7 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 
 ## 👨🏽‍🔬 Doings
 - (3times/w) Working the part time which I teach programming for children
-- (85%) Developing sailing assist app for visually impaired athletes
+- (85%) Developing sailing assist app for visually impaired athletes using GPS
 - (9%) Developing app for 第33回 高専プロコン
 
 ## 😀 Nicknames
