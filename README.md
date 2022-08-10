@@ -30,9 +30,9 @@ Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
 - 第32回 全国高等専門学校 プログラミングコンテスト 課題部門 最優秀賞
 
 ## 👨🏽‍🔬 Doings
-- (3times/w) Working the part time which I teach programming for children
+- (2times/w) Working the part time which I teach programming for children
 - (80%) Developing sailing assist app for visually impaired athletes using GPS
-- (10%) Developing app for 第33回 高専プロコン（予選通過済）
+- (15%) Developing app for 第33回 高専プロコン（予選通過済）
 
 ## 😀 Nicknames
 - タカラーン
