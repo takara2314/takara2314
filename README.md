@@ -15,8 +15,8 @@
 ![Editor: VScode](https://img.shields.io/badge/Editor-VScode-0078D4?style=for-the-badge&logo=visualstudiocode)
 
 Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
-programming, cute things, etc. I'm interested in all of IT. I do my best to code
-a lot.
+programming, cute things, etc. I'm interested in all of IT. I do my best to
+code a lot.
 
 </div>
 
@@ -33,6 +33,7 @@ a lot.
   [第33回高専プロコン](https://youtu.be/wSapbCyDciY?t=20187))_
 - [B-SAM](https://github.com/takara2314/bsam): Sailing Assist App for visually
   impaired athletes
+- りぷら: A system and A app that classificate type of plastic to recycle certainly
 
 ## 📃 Projects
 
@@ -57,12 +58,15 @@ a lot.
 ## 🏆 Awards
 
 - 第32回 全国高等専門学校 プログラミングコンテスト 課題部門 最優秀賞
+- 第33回 全国高等専門学校 プログラミングコンテスト 自由部門 敢闘賞
+- 第20回 キャンパスベンチャーグランプリ 中部大会 奨励賞
+- 第4回 全国高等専門学校ディープラーニングコンテスト 経済産業大臣賞
 
 ## 👨🏽‍🔬 Doings
 
-- Working to participate in the business contest
-- Developing a sailing assist app for visually impaired athletes
-- (2 times/w) Working part time I teach programming to children
+- Preparing the start-up
+- Developing and operating a sailing assist app for visually impaired athletes
+- (3 times/w) Working part-time that I teach programming to children
 
 ## 😀 Nicknames
 
