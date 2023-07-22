@@ -80,7 +80,7 @@ code a lot.
 
 - Twitter: [ふぉくしーど (@takara2314)](https://twitter.com/takara2314)
 - Portfolio: [2314.tk](https://2314.tk/)
-- Discord: 拡張的な宝箱#9220
+- Discord: takara2314
 - Minecraft: takara2314
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
