@@ -65,9 +65,8 @@ code a lot.
 
 ## 👨🏽‍🔬 Doings
 
-- Preparing the start-up
 - Developing and operating a sailing assist app for visually impaired athletes
-- (3 times/w) Working part-time that I teach programming to children
+- (3 times/w) Working part-time that I teach programming to children / students
 
 ## 😀 Nicknames
 
@@ -78,7 +77,7 @@ code a lot.
 
 ## ➡️ Links
 
-- Twitter: [ふぉくしーど (@takara2314)](https://twitter.com/takara2314)
+- X(Twitter): [ふぉくしーど (@takara2314)](https://twitter.com/takara2314)
 - Portfolio: [2314.tk](https://2314.tk/)
 - Discord: takara2314
 - Minecraft: takara2314
