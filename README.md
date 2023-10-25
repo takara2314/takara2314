@@ -66,7 +66,7 @@ code a lot.
 ## 👨🏽‍🔬 Doings
 
 - Developing and operating a sailing assist app for visually impaired athletes
-- (3 times/w) Working part-time that I teach programming to children / students
+- (2 times/w) Working part-time that I teach programming to children / students
 
 ## 😀 Nicknames
 
