@@ -33,7 +33,7 @@ code a lot.
   [第33回高専プロコン](https://youtu.be/wSapbCyDciY?t=20187))_
 - [B-SAM](https://github.com/takara2314/bsam): Sailing Assist App for visually
   impaired athletes
-- りぷら: A system and A app that classificate type of plastic to recycle certainly _(Introduced in
+- りぷら®: A system and A app that classificate type of plastic to recycle certainly _(Introduced in
   [DCON2023](https://dcon.ai/2023/products/%E3%82%8A%E3%81%B7%E3%82%89/))_
 
 ## 📃 Projects
