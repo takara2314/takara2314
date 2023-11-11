@@ -15,7 +15,7 @@
 ![Editor: VScode](https://img.shields.io/badge/Editor-VScode-0078D4?style=for-the-badge&logo=visualstudiocode)
 
 Konnichiwa! I'm takara2314—a KOSEN student. I like Minecraft, Doraemon, foxes,
-programming, cute things, etc. I'm interested in all of IT. I do my best to
+programming, kawaii things, etc. I'm interested in all of IT. I do my best to
 code a lot.
 
 </div>
