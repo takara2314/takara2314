@@ -5,7 +5,7 @@
 
 # takara2314 (Takara Hamaguchi)
 
-![Age: 19](https://img.shields.io/badge/Age-19-yellow?style=for-the-badge)
+![Age: 20](https://img.shields.io/badge/Age-20-dc2626?style=for-the-badge)
 ![KOSEN: 19s](https://img.shields.io/badge/KOSEN-19s-green?style=for-the-badge)
 ![Go: Passing](https://img.shields.io/badge/Go-passing-00add8?style=for-the-badge&logo=go)
 ![Python: Passing](https://img.shields.io/badge/Python-passing-3572a5?style=for-the-badge&logo=python)
