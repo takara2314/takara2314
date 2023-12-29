@@ -35,6 +35,10 @@ code a lot.
   impaired athletes
 - りぷら®: A system and A app that classificate type of plastic to recycle certainly _(Introduced in
   [DCON2023](https://dcon.ai/2023/products/%E3%82%8A%E3%81%B7%E3%82%89/))_
+- [Tobamaru Project Team ホームページ](https://github.com/takara2314/3rd-tobamaru-lastyear): Website for Tobamaru Project Team
+  ("Tobamaru" is a training ship owned by NIT Toba College)
+- [志摩市二十歳の集い ホームページ](https://github.com/takara2314/shima-hatachi-2024): Website for the 2024 Shima City Twenty-Year-Old Gathering
+  (former Coming-of-Age Ceremony).
 
 ## 📃 Projects
 
@@ -52,10 +56,6 @@ code a lot.
   Quizzing kanji in exam bot
 - [kadai-alarm](https://github.com/takara2314/kadai-alarm): Notice forgetting to
   submit assignments system
-- [Tobamaru Project Team ホームページ](https://github.com/takara2314/3rd-tobamaru-lastyear): Website for Tobamaru Project Team
-  ("Tobamaru" is a training ship owned by NIT Toba College)
-- [志摩市二十歳の集い ホームページ](https://github.com/takara2314/shima-hatachi-2024): Website for the 2024 Shima City Twenty-Year-Old Gathering
-  (former Coming-of-Age Ceremony).
 - [2314.tk](https://github.com/takara2314/2314.tk): My portfolio
 
 ... [others](https://2314.tk/works)
