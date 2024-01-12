@@ -71,7 +71,6 @@ code a lot.
 
 - Developing and operating a sailing assist app for visually impaired athletes
 - Researching on plastic material classification using smartphone cameras
-- (3 times/mon) Working part-time that I teach programming to children / students
 
 ## 😀 Nicknames
 
