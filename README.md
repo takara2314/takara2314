@@ -82,7 +82,7 @@ code a lot.
 ## ➡️ Links
 
 - X(Twitter): [ふぉくしーど (@takara2314)](https://twitter.com/takara2314)
-- Portfolio: [2314.tk](https://2314.tk/)
+- Portfolio: [2314.world](https://2314.world/)
 - Wantedly: [濱口 宝](https://www.wantedly.com/id/HamaguchiTakara)
 - Discord: takara2314
 - Minecraft: takara2314
