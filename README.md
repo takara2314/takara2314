@@ -5,14 +5,14 @@
 
 # takara2314 (Takara Hamaguchi)
 
-![Age: 21](https://img.shields.io/badge/Age-21-1d4ed8?labelColor=f5f5f5&style=for-the-badge)
-![KOSEN: 19s](https://img.shields.io/badge/KOSEN-19s-84cc16?labelColor=f5f5f5&style=for-the-badge)
-![Job: Software Engineer](https://img.shields.io/badge/Job-Software%20Engineer-2d8c3c?labelColor=f5f5f5&style=for-the-badge)
-![Go: Passing](https://img.shields.io/badge/Go-passing-00add8?labelColor=f5f5f5&style=for-the-badge&logo=go&logoColor=00add8)
-![Python: Passing](https://img.shields.io/badge/Python-passing-3776AB?labelColor=f5f5f5&style=for-the-badge&logo=python&logoColor=3776AB)
-![TypeScript: Passing](https://img.shields.io/badge/TypeScript-passing-3178C6?labelColor=f5f5f5&style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Flutter: Passing](https://img.shields.io/badge/Flutter-passing-02569b?labelColor=f5f5f5&style=for-the-badge&logo=flutter&logoColor=02569b)
-![Editor: Cursor](https://img.shields.io/badge/Editor-Cursor-000000?labelColor=f5f5f5&style=for-the-badge&logo=cursor&logoColor=000000)
+![Age: 21](https://img.shields.io/badge/Age-21-1d4ed8?labelColor=404040&style=for-the-badge)
+![KOSEN: 19s](https://img.shields.io/badge/KOSEN-19s-84cc16?labelColor=404040&style=for-the-badge)
+![Job: Software Engineer](https://img.shields.io/badge/Job-Software%20Engineer-2d8c3c?labelColor=404040&style=for-the-badge)
+![Go: Passing](https://img.shields.io/badge/Go-passing-00add8?labelColor=404040&style=for-the-badge&logo=go&logoColor=ffffff)
+![Python: Passing](https://img.shields.io/badge/Python-passing-3776AB?labelColor=404040&style=for-the-badge&logo=python&logoColor=ffffff)
+![TypeScript: Passing](https://img.shields.io/badge/TypeScript-passing-3178C6?labelColor=404040&style=for-the-badge&logo=typescript&logoColor=ffffff)
+![Flutter: Passing](https://img.shields.io/badge/Flutter-passing-02569b?labelColor=404040&style=for-the-badge&logo=flutter&logoColor=ffffff)
+![Editor: Cursor](https://img.shields.io/badge/Editor-Cursor-000000?labelColor=404040&style=for-the-badge&logo=cursor&logoColor=ffffff)
 
 Konnichiwa! I'm takara2314, a graduate from a KOSEN. I like Minecraft, kemono (furry), Doraemon,
 kawaii things, programming, etc. I'm interested in all of IT. I do my best to code a lot.
