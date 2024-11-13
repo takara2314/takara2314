@@ -5,18 +5,17 @@
 
 # takara2314 (Takara Hamaguchi)
 
-![Age: 20](https://img.shields.io/badge/Age-20-dc2626?style=for-the-badge)
-![KOSEN: 19s](https://img.shields.io/badge/KOSEN-19s-green?style=for-the-badge)
-![Go: Passing](https://img.shields.io/badge/Go-passing-00add8?style=for-the-badge&logo=go)
-![Python: Passing](https://img.shields.io/badge/Python-passing-3572a5?style=for-the-badge&logo=python)
-![TypeScript: Passing](https://img.shields.io/badge/TypeScript-passing-3178c6?style=for-the-badge&logo=typescript)
-![Dart: Learning](https://img.shields.io/badge/Dart-learning-00b4ab?style=for-the-badge&logo=dart)
-![C++: Learning](https://img.shields.io/badge/C++-learning-f34b7d?style=for-the-badge&logo=cplusplus)
-![Editor: VSCode](https://img.shields.io/badge/Editor-VSCode-0078D4?style=for-the-badge&logo=visualstudiocode)
+![Age: 21](https://img.shields.io/badge/Age-21-1d4ed8?labelColor=f5f5f5&style=for-the-badge)
+![KOSEN: 19s](https://img.shields.io/badge/KOSEN-19s-84cc16?labelColor=f5f5f5&style=for-the-badge)
+![Job: Software Engineer](https://img.shields.io/badge/Job-Software%20Engineer-2d8c3c?labelColor=f5f5f5&style=for-the-badge)
+![Go: Passing](https://img.shields.io/badge/Go-passing-00add8?labelColor=f5f5f5&style=for-the-badge&logo=go&logoColor=00add8)
+![Python: Passing](https://img.shields.io/badge/Python-passing-3776AB?labelColor=f5f5f5&style=for-the-badge&logo=python&logoColor=3776AB)
+![TypeScript: Passing](https://img.shields.io/badge/TypeScript-passing-3178C6?labelColor=f5f5f5&style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Flutter: Passing](https://img.shields.io/badge/Flutter-passing-02569b?labelColor=f5f5f5&style=for-the-badge&logo=flutter&logoColor=02569b)
+![Editor: Cursor](https://img.shields.io/badge/Editor-Cursor-000000?labelColor=f5f5f5&style=for-the-badge&logo=cursor&logoColor=000000)
 
-Konnichiwa! I'm takara2314, a graduate from a KOSEN. I like Minecraft, Doraemon, foxes,
-programming, kawaii things, etc. I'm interested in all of IT. I do my best to
-code a lot.
+Konnichiwa! I'm takara2314, a graduate from a KOSEN. I like Minecraft, kemono (furry), Doraemon,
+kawaii things, programming, etc. I'm interested in all of IT. I do my best to code a lot.
 
 </div>
 
@@ -69,8 +68,8 @@ code a lot.
 
 ## 👨🏽‍🔬 Doings
 
+- Developing and operating systems to reduce operational tasks across the company at AI Operations Office, CyberAgent, Inc.
 - Developing and operating a sailing assist app for visually impaired athletes
-- Researching on plastic material classification using smartphone cameras
 
 ## 😀 Nicknames
 
@@ -81,7 +80,8 @@ code a lot.
 
 ## ➡️ Links
 
-- X(Twitter): [たからーん (@takara2314)](https://twitter.com/takara2314)
+- X(Twitter): [たからーん (@takara2314)](https://x.com/takara2314)
+- X(Twitter) for hobbies: [ふぉくしーど (@foxseed2314)](https://x.com/foxseed2314)
 - Portfolio: [2314.world](https://2314.world/)
 - Wantedly: [濱口 宝](https://www.wantedly.com/id/HamaguchiTakara)
 - Discord: takara2314
