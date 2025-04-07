@@ -21,9 +21,12 @@ kawaii things, programming, etc. I'm interested in all of IT. I do my best to co
 
 ## 👨🏽‍💻 Works
 
+### 💼 Professional & Contest Projects
+
 - [Kadai Store API](https://github.com/takara2314/kadai-store-api): A API
   providing assignments information by using
   [devoirs-core](https://github.com/approvers/devoirs-core)
+- [2314.tk](https://github.com/takara2314/2314.tk): My portfolio
 - 学魚養食: A system that students can help fish farmers with using what them
   learned in the school _(Introduced in
   [第32回高専プロコン](https://youtu.be/GpcsrOywmHA?t=21897))_
@@ -34,12 +37,14 @@ kawaii things, programming, etc. I'm interested in all of IT. I do my best to co
   impaired athletes
 - りぷら®: A system and A app that classificate type of plastic to recycle certainly _(Introduced in
   [DCON2023](https://dcon.ai/2023/products/%E3%82%8A%E3%81%B7%E3%82%89/))_
+- [御景サーバー ウェブサイト](https://github.com/Mikage-Server/website): Website for Mikage Server (a Minecraft survival server)
 - [Tobamaru Project Team ホームページ](https://github.com/takara2314/3rd-tobamaru-lastyear): Website for Tobamaru Project Team
   ("Tobamaru" is a training ship owned by NIT Toba College)
 - [志摩市二十歳の集い ホームページ](https://github.com/takara2314/shima-hatachi-2024): Website for the 2024 Shima City Twenty-Year-Old Gathering
-  (former Coming-of-Age Ceremony).
+  (former Coming-of-Age Ceremony)
+- [バーチャルケモナイト LP](https://github.com/foxseedlab/vkemonight-lp): Landing Page for VIRTUAL KEMO NIGHT (a virtual event for furry fans and DJ fans)
 
-## 📃 Projects
+### 🧩 Hobby Projects
 
 - [TCJ2 Kadai Store](https://github.com/takara2314/tcj2-kadai-store): A system
   to add schedule about homework to my class TimeTree
@@ -55,9 +60,8 @@ kawaii things, programming, etc. I'm interested in all of IT. I do my best to co
   Quizzing kanji in exam bot
 - [kadai-alarm](https://github.com/takara2314/kadai-alarm): Notice forgetting to
   submit assignments system
-- [2314.tk](https://github.com/takara2314/2314.tk): My portfolio
 
-... [others](https://2314.tk/works)
+... [others](https://2314.world/works)
 
 ## 🏆 Awards
 
@@ -68,7 +72,7 @@ kawaii things, programming, etc. I'm interested in all of IT. I do my best to co
 
 ## 👨🏽‍🔬 Doings
 
-- Developing and operating systems to reduce operational tasks across the company at AI Operations Office, CyberAgent, Inc.
+- Developing and operating systems to reduce operational tasks across the company at AI Operations Office, [CyberAgent, Inc.](https://www.cyberagent.co.jp/)
 - Developing and operating a sailing assist app for visually impaired athletes
 
 ## 😀 Nicknames
