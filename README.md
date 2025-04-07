@@ -72,12 +72,11 @@ kawaii things, programming, etc. I'm interested in all of IT. I do my best to co
 
 ## 👨🏽‍🔬 Doings
 
-- Developing and operating systems to reduce operational tasks across the company at AI Operations Office, [CyberAgent, Inc.](https://www.cyberagent.co.jp/)
+- Working as a Software Engineer at [CyberAgent, Inc.](https://www.cyberagent.co.jp/)
 - Developing and operating a sailing assist app for visually impaired athletes
 
 ## 😀 Nicknames
 
-- タカラーン
 - たからーん
 - たからん
 - ふぉくしーど
@@ -88,7 +87,9 @@ kawaii things, programming, etc. I'm interested in all of IT. I do my best to co
 - X(Twitter) for hobbies: [ふぉくしーど (@foxseed2314)](https://x.com/foxseed2314)
 - Portfolio: [2314.world](https://2314.world/)
 - Wantedly: [濱口 宝](https://www.wantedly.com/id/HamaguchiTakara)
+- Qiita: [takara2314](https://qiita.com/takara2314)
 - Discord: takara2314
 - Minecraft: takara2314
+- VRChat: [ふぉくしーど](https://vrchat.com/home/user/usr_e57810c0-25d0-4aee-b469-242ea7570f01)
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
