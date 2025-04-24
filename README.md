@@ -42,7 +42,7 @@ kawaii things, programming, etc. I'm interested in all of IT. I do my best to co
   ("Tobamaru" is a training ship owned by NIT Toba College)
 - [志摩市二十歳の集い ホームページ](https://github.com/takara2314/shima-hatachi-2024): Website for the 2024 Shima City Twenty-Year-Old Gathering
   (former Coming-of-Age Ceremony)
-- バーチャルケモナイト LP: Landing Page for VIRTUAL KEMO NIGHT (a virtual event for furry fans and DJ fans)
+- [バーチャルケモナイト LP](https://github.com/foxseedlab/vkemonight-lp): Landing Page for VIRTUAL KEMO NIGHT (a virtual event for furry fans and DJ fans)
 
 ### 🧩 Hobby Projects
 
