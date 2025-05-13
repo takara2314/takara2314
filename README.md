@@ -3,7 +3,7 @@
     <img src="https://github.com/takara2314.png" width="128" height="128" alt="icon">
 </a>
 
-# takara2314 (Takara Hamaguchi)
+# takara2314 (Takara Hamaguchi) / Foxseed
 
 [![Age: 21](https://img.shields.io/badge/Age-21-1d4ed8?labelColor=142a6b&style=for-the-badge)](https://2314.world/)
 [![KOSEN: 19s](https://img.shields.io/badge/KOSEN-19s-84cc16?labelColor=4c7510&style=for-the-badge)](https://www.toba-cmt.ac.jp/)
@@ -14,7 +14,7 @@
 [![Flutter: Passing](https://img.shields.io/badge/Flutter-passing-02569b?labelColor=01335d&style=for-the-badge&logo=flutter&logoColor=ffffff)](https://flutter.dev/)
 [![Editor: Cursor](https://img.shields.io/badge/Editor-Cursor-000000?labelColor=000000&style=for-the-badge&logo=cursor&logoColor=ffffff)](https://www.cursor.com/)
 
-Konnichiwa! I'm takara2314, a graduate from a KOSEN. I like Minecraft, kemono (furry), Doraemon,
+Konnichiwa! I'm takara2314 (a.k.a. Foxseed), a graduate from a KOSEN. I like Minecraft, kemono (furry), Doraemon,
 kawaii things, programming, etc. I'm interested in all of IT. I do my best to code a lot.
 
 </div>
@@ -68,12 +68,13 @@ kawaii things, programming, etc. I'm interested in all of IT. I do my best to co
 - 第32回 全国高等専門学校 プログラミングコンテスト 課題部門 最優秀賞
 - 第33回 全国高等専門学校 プログラミングコンテスト 自由部門 敢闘賞
 - 第20回 キャンパスベンチャーグランプリ 中部大会 奨励賞
-- 第4回 全国高等専門学校ディープラーニングコンテスト 経済産業大臣賞
+- 第4回 全国高等専門学校ディープラーニングコンテスト (DCON2023) 経済産業大臣賞
 
 ## 👨🏽‍🔬 Doings
 
 - Working as a Software Engineer at [CyberAgent, Inc.](https://www.cyberagent.co.jp/)
 - Developing and operating a sailing assist app for visually impaired athletes
+- Actively developing in several kemono (furry) communities
 
 ## 😀 Nicknames
 
