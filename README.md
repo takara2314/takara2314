@@ -14,7 +14,7 @@
 [![Flutter: Passing](https://img.shields.io/badge/Flutter-passing-02569b?labelColor=01335d&style=for-the-badge&logo=flutter&logoColor=ffffff)](https://flutter.dev/)
 [![Editor: Cursor](https://img.shields.io/badge/Editor-Cursor-000000?labelColor=000000&style=for-the-badge&logo=cursor&logoColor=ffffff)](https://www.cursor.com/)
 
-Konnichiwa! I'm takara2314 (a.k.a. Foxseed), a graduate from a KOSEN. I like Minecraft, kemono (furry), Doraemon,
+Konnichiwa! I'm takara2314 (a.k.a. Foxseed), a graduate from a [KOSEN](https://www.toba-cmt.ac.jp/). I like Minecraft, kemono (furry), Doraemon,
 kawaii things, programming, etc. I'm interested in all of IT. I do my best to code a lot.
 
 </div>
