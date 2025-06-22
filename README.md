@@ -60,6 +60,7 @@ kawaii things, programming, etc. I'm interested in all of IT. I do my best to co
   Quizzing kanji in exam bot
 - [kadai-alarm](https://github.com/takara2314/kadai-alarm): Notice forgetting to
   submit assignments system
+- [ふぉくしーどAR](https://github.com/foxseedlab/foxseed-ar): WebAR content for my character business cards
 
 ... [others](https://2314.world/works)
 
@@ -81,6 +82,7 @@ kawaii things, programming, etc. I'm interested in all of IT. I do my best to co
 - たからーん
 - たからん
 - ふぉくしーど
+- ふぉく
 
 ## ➡️ Links
 
