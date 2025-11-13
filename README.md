@@ -5,7 +5,7 @@
 
 # takara2314 (Takara Hamaguchi) / Foxseed
 
-[![Age: 21](https://img.shields.io/badge/Age-21-1d4ed8?labelColor=142a6b&style=for-the-badge)](https://2314.world/)
+[![Age: 22](https://img.shields.io/badge/Age-22-e26e00?labelColor=bb4a02&style=for-the-badge)](https://2314.world/)
 [![KOSEN: 19s](https://img.shields.io/badge/KOSEN-19s-84cc16?labelColor=4c7510&style=for-the-badge)](https://www.toba-cmt.ac.jp/)
 [![Job: Software Engineer](https://img.shields.io/badge/Job-Software%20Engineer-2d8c3c?labelColor=1b5224&style=for-the-badge)](https://www.cyberagent.co.jp/)
 [![Go: Passing](https://img.shields.io/badge/Go-passing-00add8?labelColor=006a82&style=for-the-badge&logo=go&logoColor=ffffff)](https://go.dev/)
