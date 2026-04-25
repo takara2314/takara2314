@@ -43,8 +43,8 @@ kawaii things, programming, etc. I'm interested in all of IT. I do my best to co
 - [志摩市二十歳の集い ホームページ](https://github.com/takara2314/shima-hatachi-2024): Website for the 2024 Shima City Twenty-Year-Old Gathering
   (former Coming-of-Age Ceremony)
 - [バーチャルケモナイト LP](https://github.com/foxseedlab/vkemonight-lp): Landing Page for [VIRTUAL KEMO NIGHT](https://vkemonight.kemoin.com/) (a virtual event for furry fans and DJ fans)
-- JMoF 2026 公式ウェブサイト: Official website for [JMoF 2026](https://www.jmof.jp/) (Japan Meeting of Furries, the largest furry convention in Japan)
-- VR JMoF 2026 公式ウェブサイト: Official website for [VR JMoF 2026](https://vr.jmof.jp/) (the virtual edition of JMoF)
+- JMoF 2026 公式ウェブサイト: Official website for [JMoF](https://www.jmof.jp/) 2026 (Japan Meeting of Furries, the largest furry convention in Japan)
+- VR JMoF 2026 公式ウェブサイト: Official website for [VR JMoF](https://vr.jmof.jp/) 2026 (the virtual edition of JMoF)
 
 ### 🧩 Hobby Projects
 
