@@ -45,6 +45,7 @@ kawaii things, programming, etc. I'm interested in all of IT. I do my best to co
 - [バーチャルケモナイト LP](https://github.com/foxseedlab/vkemonight-lp): Landing Page for [VIRTUAL KEMO NIGHT](https://vkemonight.kemoin.com/) (a virtual event for furry fans and DJ fans)
 - JMoF 公式ウェブサイト: Official website for [JMoF](https://www.jmof.jp/) (Japan Meeting of Furries, the largest furry convention in Japan)
 - VR JMoF 公式ウェブサイト: Official website for [VR JMoF](https://vr.jmof.jp/) (the virtual edition of JMoF)
+- TAILGATE 公式ウェブサイト: Official website for [TAILGATE](https://tailgate-furry.com/)
 
 ### 🧩 Hobby Projects
 
